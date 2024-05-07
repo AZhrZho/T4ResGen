@@ -126,6 +126,9 @@
         <T4ParameterValues Include="NlsResourceDirectory">
             <Value>$(StringDirectory)</Value>
         </T4ParameterValues>
+        <T4ParameterValues Include="NlsClassName">
+            <Value>$(NlsClassName)</Value>
+        </T4ParameterValues>
     </ItemGroup>
     
     <ItemGroup>
